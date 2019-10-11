@@ -1,0 +1,26 @@
+.jumbotron{
+	background-image: url(mountains.jpg);
+	background-size: cover;1
+	background-repeat: no-repeat;
+}
+
+
+.display-4{
+  color: #343a40;
+  text-align: center;
+  margin-left: 18px;
+}
+.lead{
+  color: #343a40;
+  text-align: center;
+  margin-left: 18px;
+}
+.my-4{
+  text-align: center;
+  margin-left: 18px;
+}
+.btn-group{
+	display: inline;
+	text-align: center;
+  margin-left: 500px;
+}
